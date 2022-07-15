@@ -18,19 +18,19 @@
     "contributes": {
         "themes": [
             {
+                "label": "Man Dark Slate",
+                "uiTheme": "vs-dark",
+                "path": "./themes/man-dark-slate.json"
+            },
+            {
+                "label": "Man Dark Zinc",
+                "uiTheme": "vs-dark",
+                "path": "./themes/man-dark-zinc.json"
+            },
+            {
                 "label": "Man Dark Stone",
                 "uiTheme": "vs-dark",
                 "path": "./themes/man-dark-stone.json"
-            },
-            {
-                "label": "Man Dark Neutral",
-                "uiTheme": "vs-dark",
-                "path": "./themes/man-dark-neutral.json"
-            },
-            {
-                "label": "Man Light Neutral",
-                "uiTheme": "vs",
-                "path": "./themes/man-light-neutral.json"
             }
         ]
     },
