@@ -3,7 +3,7 @@
     "displayName": "Man Theme",
     "description": "A manimal theme that comes in dark and light.",
     "version": "1.5.0",
-    "publisher": "miguelsolorio",
+    "publisher": "calvinludwig",
     "repository": {
         "type": "git",
         "url": "https://github.com/calvinludwig/man-theme.git"
@@ -20,17 +20,17 @@
             {
                 "label": "Man Dark Slate",
                 "uiTheme": "vs-dark",
-                "path": "./themes/man-dark-slate.json"
+                "path": "./themes/dark-slate.json"
             },
             {
                 "label": "Man Dark Zinc",
                 "uiTheme": "vs-dark",
-                "path": "./themes/man-dark-zinc.json"
+                "path": "./themes/dark-zinc.json"
             },
             {
                 "label": "Man Dark Stone",
                 "uiTheme": "vs-dark",
-                "path": "./themes/man-dark-stone.json"
+                "path": "./themes/dark-stone.json"
             }
         ]
     },

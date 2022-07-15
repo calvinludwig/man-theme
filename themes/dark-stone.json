@@ -228,7 +228,6 @@
 				"punctuation.definition.template-expression"
 			],
 			"settings": {
-				"fontStyle": "italic",
 				"foreground": "#fb7185"
 			}
 		},
