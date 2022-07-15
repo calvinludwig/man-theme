@@ -1,12 +1,12 @@
 {
-    "name": "man-theme",
-    "displayName": "Man Theme",
-    "description": "A manimal theme that comes in dark and light.",
-    "version": "1.5.0",
+    "name": "wind-theme",
+    "displayName": "Wind Theme",
+    "description": "A fork of Min Theme using Tailwind Color pallete.",
+    "version": "1.0.0",
     "publisher": "calvinludwig",
     "repository": {
         "type": "git",
-        "url": "https://github.com/calvinludwig/man-theme.git"
+        "url": "https://github.com/calvinludwig/wind-theme.git"
     },
     "engines": {
         "vscode": "^1.25.0"
@@ -18,17 +18,17 @@
     "contributes": {
         "themes": [
             {
-                "label": "Man Dark Slate",
+                "label": "Wind Dark Slate",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-slate.json"
             },
             {
-                "label": "Man Dark Zinc",
+                "label": "Wind Dark Zinc",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-zinc.json"
             },
             {
-                "label": "Man Dark Stone",
+                "label": "Wind Dark Stone",
                 "uiTheme": "vs-dark",
                 "path": "./themes/dark-stone.json"
             }
